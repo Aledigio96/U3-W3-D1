@@ -68,8 +68,8 @@ const myTuple:[string,string,string,number,number]=["ciao","a","tutti",20,25]
 
 
 // 12) Qual è la differenza tra type e interface?
-//l'interface può essere usato con classi e oggetti può essere estesa con extend e ha come keyword interface
-//type ha la possibilità di combinare più tipe con Union e può essere esteso con &
+//l'interface può essere usato con classi e oggetti può essere estesa con extend ed ha come keyword interface
+//type ha la possibilità di combinare più type con Union e può essere esteso con &
 //la differenza tra i due è che interface è supportato dalle classi type no.
 
 
